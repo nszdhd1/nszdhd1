@@ -1,4 +1,4 @@
-### Hi there 👋
+[![nszdhd1's GitHub stats](https://github-readme-stats-rose-two.vercel.app/api?username=nszdhd1)](https://github.com/nszdhd1/github-readme-stats)
 
 <!--
 **nszdhd1/nszdhd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
