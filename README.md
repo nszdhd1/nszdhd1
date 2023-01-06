@@ -1,6 +1,10 @@
-[![nszdhd1's GitHub stats](https://github-readme-stats-rose-two.vercel.app/api?username=nszdhd1)](https://github.com/nszdhd1/github-readme-stats)
+[![nszdhd1's GitHub stats](https://github-readme-stats-rose-two.vercel.app/api?username=nszdhd1&show_icons=true&theme=buefy&hide=contribs,prs)](https://github.com/nszdhd1/github-readme-stats)
+
+
 
 <!--
+
+[![Top Langs](https://github-readme-stats-rose-two.vercel.app/api/top-langs/?username=nszdhd1&layout=compact)](https://github.com/nszdhd1/github-readme-stats)
 **nszdhd1/nszdhd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
