@@ -1,7 +1,13 @@
+
+
 [![nszdhd1's GitHub stats](https://github-readme-stats-rose-two.vercel.app/api?username=nszdhd1&show_icons=true&theme=buefy&hide=contribs,prs)](https://github.com/nszdhd1/github-readme-stats)
 
+🌱 又是努力逆向的一天呀 ~
 
 
+🔗 https://nszdhd1.github.io/
+
+📧 673304120@qq.com
 <!--
 
 [![Top Langs](https://github-readme-stats-rose-two.vercel.app/api/top-langs/?username=nszdhd1&layout=compact)](https://github.com/nszdhd1/github-readme-stats)
